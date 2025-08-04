@@ -66,12 +66,6 @@ Below are screenshots illustrating the agent's functionality:
 
 **Description:** A powerful aspect of the agent is its ability to provide in-depth feedback. This screenshot illustrates either a real-time evaluation of a user's answer during a Q&A session or a detailed model answer for a specific question, always accompanied by actionable improvement tips to refine responses.
 
-### Deployed Agent
-![Deployed Agent](screenshots/deployed_agent.png)
-*Description: Our AI Interview Trainer Agent is successfully deployed on IBM Cloud, making it accessible for users to engage with and benefit from personalized interview preparation anytime, anywhere. This readiness highlights the practical application of our developed solution.*
-
-**Live Demo (if applicable):** [Insert your Watson Assistant Web Chat Public URL here, once you get it]
-
 ## 7. Conclusion
 
 The AI Interview Trainer Agent effectively addresses the challenge of generic interview preparation by offering a personalized, interactive, and comprehensive coaching experience. Leveraging IBM Cloud Lite services and the Granite model, it demonstrates how RAG can be applied to provide highly contextual and valuable assistance. By generating tailored questions, providing insightful model answers, and delivering actionable feedback, the agent significantly enhances a user's preparedness and confidence, ultimately increasing their chances of success in competitive job markets.
@@ -87,9 +81,9 @@ The AI Interview Trainer Agent effectively addresses the challenge of generic in
 
 ## 9. IBM Certifications
 
-* **Getting Started with AI:** [Link to your Credly badge for Getting Started with AI]
+* **Getting Started with AI:** [https://www.credly.com/earner/earned/badge/bf5c46ad-c0c6-49cd-b8e5-ed6d6684802e]
     * ![Getting Started with AI Certificate](certificates/getting_started_ai_certificate.png)
-* **Retrieval Augmented Generation (RAG) Lab:** [Link to your RAG LAB certificate/badge]
+* **Retrieval Augmented Generation (RAG) Lab:** [[Link to your RAG LAB certificate/badge](https://skills.yourlearning.ibm.com/certificate/share/777a7e669bewogICJsZWFybmVyQ05VTSIgOiAiNDkxOTI3MlJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzgyNDk5OCIKfQ3df52d4f14-10)]
     * ![RAG Lab Certificate](certificates/rag_lab_certificate.png)
 
 ## License

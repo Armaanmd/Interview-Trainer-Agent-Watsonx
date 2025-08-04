@@ -48,20 +48,23 @@ Below are screenshots illustrating the agent's functionality:
 
 **Description**: This screenshot shows the agent's welcoming interface, ready to initiate a personalized interview preparation session. It highlights the clean, user-friendly design where the agent introduces itself and prepares to gather the user's profile information.
 
-### User Profile Gathering
+### ▫️User Profile Gathering
 <img width="909" height="719" alt="image" src="https://github.com/user-attachments/assets/733246fc-5e95-4ccf-bed0-ebc8f3026d09" />
 
 **Description:** Here, the agent engages the user in a collaborative information-gathering phase. It politely prompts for critical details such as job role and experience level, which are essential for tailoring the upcoming interview questions and advice.
 
-### Interactive Q&A Session
+### ▫️Interactive Q&A Session
 <img width="919" height="721" alt="image" src="https://github.com/user-attachments/assets/5491ce19-ea69-463f-b910-0554b73370cc" />
 <img width="915" height="730" alt="image" src="https://github.com/user-attachments/assets/8a5f1d45-7207-4e0a-8262-f01ace5ed961" />
 
 **Description:** This visual showcases the core functionality: the agent presenting tailored interview questions. Depending on the user's preference, this could be the start of an interactive Q&A session or the full list of generated questions for self-study.
 
-### Model Answer & Improvement Tips
-![Model Answer & Tips](screenshots/model_answer_tips.png)
-*Description: A powerful aspect of the agent is its ability to provide in-depth feedback. This screenshot illustrates either a real-time evaluation of a user's answer during a Q&A session or a detailed model answer for a specific question, always accompanied by actionable improvement tips to refine responses.*
+### ▫️Model Answer & Improvement Tips
+<img width="909" height="728" alt="image" src="https://github.com/user-attachments/assets/3e3795e9-85e9-4b9f-a176-f48e6621d7f0" />
+
+<img width="905" height="733" alt="image" src="https://github.com/user-attachments/assets/77268100-54f1-4e46-8c81-348b0de05444" />
+
+**Description:** A powerful aspect of the agent is its ability to provide in-depth feedback. This screenshot illustrates either a real-time evaluation of a user's answer during a Q&A session or a detailed model answer for a specific question, always accompanied by actionable improvement tips to refine responses.
 
 ### Deployed Agent
 ![Deployed Agent](screenshots/deployed_agent.png)

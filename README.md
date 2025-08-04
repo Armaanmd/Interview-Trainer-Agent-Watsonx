@@ -49,12 +49,15 @@ Below are screenshots illustrating the agent's functionality:
 **Description**: This screenshot shows the agent's welcoming interface, ready to initiate a personalized interview preparation session. It highlights the clean, user-friendly design where the agent introduces itself and prepares to gather the user's profile information.
 
 ### User Profile Gathering
-![Profile Gathering](screenshots/profile_gathering.png)
-*Description: Here, the agent engages the user in a collaborative information-gathering phase. It politely prompts for critical details such as job role and experience level, which are essential for tailoring the upcoming interview questions and advice.*
+<img width="909" height="719" alt="image" src="https://github.com/user-attachments/assets/733246fc-5e95-4ccf-bed0-ebc8f3026d09" />
+
+**Description:** Here, the agent engages the user in a collaborative information-gathering phase. It politely prompts for critical details such as job role and experience level, which are essential for tailoring the upcoming interview questions and advice.
 
 ### Interactive Q&A Session
-![Q&A Session](screenshots/qna_session.png)
-*Description: This visual showcases the core functionality: the agent presenting tailored interview questions. Depending on the user's preference, this could be the start of an interactive Q&A session or the full list of generated questions for self-study.*
+<img width="919" height="721" alt="image" src="https://github.com/user-attachments/assets/5491ce19-ea69-463f-b910-0554b73370cc" />
+<img width="915" height="730" alt="image" src="https://github.com/user-attachments/assets/8a5f1d45-7207-4e0a-8262-f01ace5ed961" />
+
+**Description:** This visual showcases the core functionality: the agent presenting tailored interview questions. Depending on the user's preference, this could be the start of an interactive Q&A session or the full list of generated questions for self-study.
 
 ### Model Answer & Improvement Tips
 ![Model Answer & Tips](screenshots/model_answer_tips.png)

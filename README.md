@@ -82,9 +82,9 @@ The AI Interview Trainer Agent effectively addresses the challenge of generic in
 ## 9. IBM Certifications
 
 * **Getting Started with AI:** [https://www.credly.com/earner/earned/badge/bf5c46ad-c0c6-49cd-b8e5-ed6d6684802e]
-    * ![Getting Started with AI Certificate](certificates/getting_started_ai_certificate.png)
+    [* ![Getting Started with AI Certificate](certificates/getting_started_ai_certificate.png)](https://github.com/Armaanmd/Interview-Trainer-Agent-Watsonx/blob/main/ibm%20certificates%20img/Screenshot%202025-08-04%20124556.png)
 * **Retrieval Augmented Generation (RAG) Lab:** [[Link to your RAG LAB certificate/badge](https://skills.yourlearning.ibm.com/certificate/share/777a7e669bewogICJsZWFybmVyQ05VTSIgOiAiNDkxOTI3MlJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzgyNDk5OCIKfQ3df52d4f14-10)]
-    * ![RAG Lab Certificate](certificates/rag_lab_certificate.png)
+    [* ![RAG Lab Certificate](certificates/rag_lab_certificate.png)](https://github.com/Armaanmd/Interview-Trainer-Agent-Watsonx/blob/main/ibm%20certificates%20img/Screenshot%202025-08-04%20124743.png)
 
 ## License
 
@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-* **[Your Name]** - [Your LinkedIn Profile URL (Optional)]
+* **Mohd Armaan Z** - [www.linkedin.com/in/mohdarmaanz]
 
 ## Acknowledgements
 * IBM Watsonx.ai documentation and labs
